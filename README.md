@@ -48,18 +48,16 @@ This analysis leads to one recommenation for Microsoft:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./microsoft_movie_studios_analysis.ipynb) or review this [presentation](./Microsoft_Movie_Studios_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Microsoft_Movie_Studios_Analysis.ipynb) or review this [presentation](./Microsoft_Movie_Studios_Presentation.pdf).
 
-For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
-
-![logo](./images/aac_logo_tall.jpg)
+For additional info, contact Blake Elieff at [blakeelieff@hotmail.com](mailto:blakeelieff@hotmail.com)
 
 ## Repository Structure
 
 ```
-├── data
 ├── images
+├── zippedData
 ├── README.md
-├── Microsoft_Movie_Studios_Presentation.pdf
-└── Microsoft_Movie_Studios_Analysis.ipynb
+├── Microsoft_Movie_Studios_Analysis.ipynb
+└── Microsoft_Movie_Studios_Presentation.pdf
 ```
